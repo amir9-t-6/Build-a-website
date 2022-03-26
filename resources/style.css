@@ -1,0 +1,123 @@
+h1 {
+  text-align: center;
+  font-weight: 700;
+}
+h1,
+h2,
+.color-container {
+  font-family: "Space Mono", monospace;
+}
+h2 {
+  text-align: center;
+}
+
+.container {
+  border: 2px solid grey;
+  padding: 10px;
+  margin: 10px 90px;
+}
+.color-container {
+  display: inline-block;
+  width: 33%;
+  text-align: center;
+  margin: 5px auto;
+  color: white;
+}
+
+#blue-container {
+  background-color: #2596be;
+}
+#blue-container:hover {
+  transform: scale(1.1);
+}
+#neon-color {
+  background-color: #fe4164;
+}
+#neon-color:hover {
+  transform: scale(1.1);
+}
+#bali-hai {
+  background-color: #929fb5;
+}
+#bali-hai:hover {
+  transform: scale(1.1);
+}
+#forest-green {
+  background-color: #20a246;
+}
+#forest-green:hover {
+  transform: scale(1.1);
+}
+#my-sin {
+  background-color: #ffb11f;
+}
+#my-sin:hover {
+  transform: scale(1.1);
+}
+#torch-red {
+  background-color: #ff1f3a;
+}
+#torch-red:hover {
+  transform: scale(1.1);
+}
+/* Paragraph container */
+.font-section {
+  display: inline-block;
+  width: 45%;
+}
+.font-label {
+  font-size: 30px;
+  text-decoration: underline;
+  font-style: bold;
+}
+.hi-melody-regular {
+  font-family: "Roboto", sans-serif;
+  font-family: "Roboto Condensed", sans-serif;
+}
+.hi-melody-bold {
+  font-weight: 600;
+  font-family: "Roboto Condensed", sans-serif;
+}
+.hi-melody-italic {
+  font-style: italic;
+  font-family: "Roboto", sans-serif;
+  font-family: "Roboto Condensed", sans-serif;
+}
+
+.Noto-Sans-Regular {
+  font-family: "Noto Sans", sans-serif;
+}
+.Noto-Sans-Bold {
+  font-weight: 600;
+  font-family: "Noto Sans", sans-serif;
+}
+.Noto-Sans-Italic {
+  font-style: italic;
+  font-family: "Noto Sans", sans-serif;
+}
+.IBM-regular {
+  font-family: "IBM Plex Serif", serif;
+}
+.IBM-Italic {
+  font-family: "IBM Plex Serif", serif;
+  font-style: italic;
+}
+.IBM-Bold {
+  font-family: "IBM Plex Serif", serif;
+  font-weight: 600;
+}
+.h1-main-page {
+  text-align: left;
+  font-weight: 600;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.heading-2 {
+  text-align: left;
+  font-weight: 400;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.p-text {
+  font-weight: 300;
+  font-size: 15px;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+}
